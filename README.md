@@ -72,3 +72,4 @@ export default defineConfig([
 ])
 ```
 # react-wishlist
+# react-wishlist
